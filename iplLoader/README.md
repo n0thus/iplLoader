@@ -34,7 +34,7 @@ Add ```start iplLoader``` into your server.cfg after the start of bob74_ipl.
 ![Alt text](https://image.prntscr.com/image/kp96srdeQSuiyyzWrrsl2g.png) / ![Alt text](https://image.prntscr.com/image/_YDQR5R0QGiFRxK0x8NDMw.png)
 
 ###### Counterfeit Cash Factory : 1121.897, -3195.338, -40.4025 ######
-![Alt text](https://image.prntscr.com/image/7btjfYgMRC227e2y1OE-FQ.png) / ![Alt text](https://image.prntscr.com/image/kFcAc9wKR5Kt6Ou9GE30Yg.png)
+![Alt text](https://cdn.discordapp.com/attachments/347411813379342336/392377013123678208/7btjfYgMRC227e2y1OE-FQ.png) / ![Alt text](https://image.prntscr.com/image/kFcAc9wKR5Kt6Ou9GE30Yg.png)
 
 ###### Meth lab : 1009.5, -3196.6, -38.99682 ######
 ![Alt text](https://image.prntscr.com/image/4Nrfu27TRe_fGsOgcRYqyA.png) / ![Alt text](https://image.prntscr.com/image/ykDqPpX0Tfa3kcGpa7FDuA.png)
