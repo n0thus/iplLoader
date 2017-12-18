@@ -419,4 +419,104 @@ allIpls = {
 				{-1579.756, -565.0661, 108.523}, {-1579.678, -565.0034, 108.5229}, {-1579.583, -565.0399, 108.5229}, {-1579.702, -565.0366, 108.5229}, {-1579.643, -564.9685, 108.5229}, {-1579.681, -565.0003, 108.523}, {-1579.677, -565.0689, 108.5229}, {-1579.708, -564.9634, 108.5229}, {-1579.693, -564.8981, 108.5229},
 			    {-1392.667, -480.4736, 72.04217}, {-1392.542, -480.4011, 72.04211}, {-1392.626, -480.4856, 72.04212}, {-1392.617, -480.6363, 72.04208}, {-1392.532, -480.7649, 72.04207}, {-1392.611, -480.5562, 72.04214}, {-1392.563, -480.549, 72.0421}, {-1392.528, -480.475, 72.04206}, {-1392.416, -480.7485, 72.04207}}
 	},
+
+	-- 			CEO GARAGES
+
+	{
+		interiorsProps = {
+			--"garage_decor_01",
+			--"garage_decor_02",
+			--"garage_decor_03",
+			"garage_decor_04",
+			--"lighting_option01",
+			--"lighting_option02",
+			--"lighting_option03",
+			--"lighting_option04",
+			--"lighting_option05",
+			--"lighting_option06",
+			--"lighting_option07",
+			--"lighting_option08",
+			"lighting_option09",
+			"numbering_style01_n1",
+			--"numbering_style01_n2",
+			--"numbering_style01_n3",
+			"numbering_style02_n1",
+			--"numbering_style02_n2",
+			--"numbering_style02_n3",
+			"numbering_style03_n1",
+			--"numbering_style03_n2",
+			--"numbering_style03_n3",
+			"numbering_style04_n1",
+			--"numbering_style04_n2",
+			--"numbering_style04_n3",
+			"numbering_style05_n1",
+			--"numbering_style05_n2",
+			--"numbering_style05_n3",
+			"numbering_style06_n1",
+			--"numbering_style06_n2",
+			--"numbering_style06_n3",
+			"numbering_style07_n1",
+			--"numbering_style07_n2",
+			--"numbering_style07_n3",
+			"numbering_style08_n1",
+			--"numbering_style08_n2",
+			--"numbering_style08_n3",
+			"numbering_style09_n1",
+			--"numbering_style09_n2",
+			--"numbering_style09_n3",
+			"basic_style_set"
+		},
+		coords={{795.75439453125, -2997.3317871094, -22.960731506348}}
+	},
+
+	-- 			CEO VEHICLES SHOPS
+
+	{
+		interiorsProps = {
+			--"floor_vinyl_01",
+			--"floor_vinyl_02",
+			"floor_vinyl_03",
+			--"floor_vinyl_04",
+			--"floor_vinyl_05",
+			--"floor_vinyl_06",
+			--"floor_vinyl_07",
+			--"floor_vinyl_08",
+			--"floor_vinyl_09",
+			--"floor_vinyl_10",
+			--"floor_vinyl_11",
+			--"floor_vinyl_12",
+			--"floor_vinyl_13",
+			--"floor_vinyl_14",
+			--"floor_vinyl_15",
+			--"floor_vinyl_16",
+			--"floor_vinyl_17",
+			--"floor_vinyl_18",
+			--"floor_vinyl_19"
+		},
+		coords={{730.63916015625, -2993.2373046875, -38.999904632568}}
+	},
+
+	-- 			BIKERS Document Forgery Office
+
+	{
+		interiorsProps = {
+			"chair01",
+			"chair02",
+			"chair03",
+			"chair04",
+			"chair05",
+			"chair06",
+			"chair07",
+			"clutter",
+			--"equipment_basic",
+			"equipment_upgrade",
+			--"interior_basic",
+			"interior_upgrade",
+			"production",
+			"security_high",
+			--"security_low",
+			"set_up"
+		},
+		coords={{1163.842,-3195.7,-39.008}}
+	}
 }
