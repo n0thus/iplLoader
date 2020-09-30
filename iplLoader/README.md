@@ -1,6 +1,6 @@
 # IPL Loader
 
-#### This script do not replace bob74_ipl, it's an "extension" ###
+#### Do Not replace this script bob74_ipl, it's an "extension" ###
 
 This script load the basics interiors of the IPLs. You are able to modify which props are in the ipl or modify some textures. However, some props can't be used at the same time, for example :
 ```
@@ -17,7 +17,7 @@ Add ```start iplLoader``` into your server.cfg after the start of bob74_ipl.
 
 ### Update (18/12/2017) ###
 
-- Added new IPL's : 
+- Added New IPL's : 
 ```
 Document Forgery Office
 Import / Export garage
